@@ -2,6 +2,8 @@
 
 This is a digital sketchbook application featuring a magical crayon that dynamically changes its color and opacity as you continue drawing, offering a unique and engaging artistic experience.
 
+![cursor coloring a digital sketchbook](./sketch-vid.gif)
+
 ## 🛠️ Prerequisites
 
 Before starting, ensure the target machine has the following installed:
