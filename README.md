@@ -44,7 +44,7 @@ You can specify a custom grid size by passing the `--grid=<number>`. The allowed
 
   <Center>Note: The larger the grid number, the higher the resolution of your canvas. </Center>
 
-## ⌨️ Create a custom command (Optional)
+## ⌨️ Create a Custom Command (Optional)
 
 To launch the app from any location on your computer by typing a simple command (e.g., sketch), follow these steps to create a custom shell script.
 
