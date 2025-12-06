@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "electron": "^39.2.6"
+  },
+  "name": "sketchbook",
+  "version": "1.0.0",
+  "description": "A digital sketchbook with a magical crayon that changes color and opacity as you keep drawing!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamadSMA/sketchbook.git"
+  },
+  "keywords": [],
+  "author": "Hamad",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HamadSMA/sketchbook/issues"
+  },
+  "homepage": "https://github.com/HamadSMA/sketchbook#readme"
+}

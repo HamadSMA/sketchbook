@@ -1,5 +1,5 @@
 const gridArg = window.electronAPI.args.find(arg => arg.startsWith('--grid='));
-const gridNumber = gridArg ? parseInt(gridArg.split('=')[1], 10) : 3;
+const gridNumber = gridArg ? parseInt(gridArg.split('=')[1], 10) : 2;
 
 
 // removeBoxes();
