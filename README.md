@@ -2,7 +2,7 @@
 
 This is a digital sketchbook application featuring a magical crayon that dynamically changes its color and opacity as you continue drawing, offering a unique and engaging artistic experience.
 
-![cursor coloring a digital sketchbook](./sketch-vid.gif)
+![cursor coloring a digital sketchbook](./imgs/sketch-vid.gif)
 
 ## 🛠️ Prerequisites
 
@@ -46,7 +46,7 @@ You can specify a custom grid size by passing the `--grid=<number>`. The allowed
 </div>
 
   <Center>Note: The larger the grid number, the higher the resolution of your canvas. </Center>
-
+  
 ## ⌨️ Create a Custom Command (Optional)
 
 To launch the app from any location on your computer by typing a simple command (e.g., sketch), follow these steps to create a custom shell script.

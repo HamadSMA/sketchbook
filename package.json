@@ -5,7 +5,7 @@
   "name": "sketchbook",
   "version": "1.0.0",
   "description": "A digital sketchbook with a magical crayon that changes color and opacity as you keep drawing!",
-  "main": "main.js",
+  "main": "./scripts/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

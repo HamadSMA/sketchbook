@@ -18,7 +18,7 @@ if (isNaN(gridNumber) || gridNumber < 1 || gridNumber > 100) {
       }
     });
 
-    mainWindow.loadFile('index.html');
+    mainWindow.loadFile('./index.html');
   }
 
   app.whenReady().then(createWindow);
