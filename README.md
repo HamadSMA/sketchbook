@@ -8,8 +8,8 @@ This is a digital sketchbook application featuring a magical crayon that dynamic
 
 Before starting, ensure the target machine has the following installed:
 
-- Node.js: The runtime environment required for npm and your Electron app.
-- npm - Usually bundled with Node.js.
+- [Node.js](https://nodejs.org/en/download) - The runtime environment required for npm and your Electron app.
+- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) - Usually bundled with Node.js.
 
 ## 🚀 Getting Started
 
@@ -46,7 +46,7 @@ You can specify a custom grid size by passing the `--grid=<number>`. The allowed
 </div>
 
   <Center>Note: The larger the grid number, the higher the resolution of your canvas. </Center>
-  
+
 ## ⌨️ Create a Custom Command (Optional)
 
 To launch the app from any location on your computer by typing a simple command (e.g., sketch), follow these steps to create a custom shell script.
