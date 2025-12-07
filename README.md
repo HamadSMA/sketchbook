@@ -32,6 +32,7 @@ npx electron .
 ```
 
 **3. Custom Grid Size**
+
 You can specify a custom grid size by passing the `--grid=<number>`. The allowed grid size ranges from 2 to 100.
 
 <div style="margin-left: auto; margin-right: auto;">
